@@ -1,0 +1,112 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "iPhone 8",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 549,
+        "thumbnail": "https://th.bing.com/th/id/R.82eada3abbaddc134298d956d7818f8d?rik=S7%2bo5Ky9Kpg6Sg&pid=ImgRaw&r=0",
+        "quantity" : 1
+      },
+      {
+        "id": 2,
+        "title": "iPhone X",
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+        "price": 899,
+        "thumbnail": "https://rakistan.pk/wp-content/uploads/2020/11/apple-iphone-x-new-2.jpg",
+        "quantity" : 1
+      },
+      {
+        "id": 3,
+        "title": "Samsung Galaxy 9",
+        "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+        "price": 1249,
+        "category": "smartphones",
+        "thumbnail": "https://i5.walmartimages.com/asr/2a7a7345-77af-4ed0-b689-b884e2981ef2_1.d70d05faf625ccdcc494f2e1be79397b.jpeg",
+        "quantity" : 1
+      },
+      {
+        "id": 4,
+        "title": "OPPOF19",
+        "description": "OPPO F19 is officially announced on April 2021.",
+        "price": 280,
+        "thumbnail": "https://asanservice.pk/wp-content/uploads/2019/01/f9-purple.png",
+        "quantity" : 1
+      },
+      {
+        "id": 5,
+        "title": "Huawei P30",
+        "description": "Huawei re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+        "price": 499,
+        "thumbnail": "https://asalbachat.com/wp-content/uploads/2020/09/Huawei-p30-pro-mystic-blue.jpg",
+        "quantity" : 1
+      },
+      {
+        "id": 6,
+        "title": "MacBook Pro",
+        "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+        "price": 1749,
+        "thumbnail": "https://www.for-sale.co.uk/sh-img/457973-apple-macbook-pro-15-inch-2017_apple%2Bmacbook%2Bpro%2B2017.jpg",
+        "quantity" : 1
+      },
+      {
+        "id": 7,
+        "title": "Samsung Galaxy Book",
+        "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+        "price": 1499,
+        "thumbnail": "https://th.bing.com/th?id=OIF.cQumzOv6UC9F%2fE3qr8ZHTg&rs=1&pid=ImgDetMain",
+        "quantity" : 1
+      }
+      ,
+      {
+        "id": 8,
+        "title": "Macbook air m2",
+        "description": "Samsung Galaxy air m2 (2023) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+        "price": 3000,
+        "thumbnail": "https://th.bing.com/th/id/OIP.RHKJy5q83-if0GkoAmPMDAAAAA?rs=1&pid=ImgDetMain",
+        "quantity" : 1
+      }
+      ,
+      {
+        "id": 9,
+        "title": "Apple Watch 2023",
+        "description": "Apple watch (2023) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+        "price": 1200,
+        "thumbnail": "https://th.bing.com/th/id/R.df6b16be7566af3b8b5026f4155a808e?rik=sgeVqlDqXyK7sg&pid=ImgRaw&r=0",
+        "quantity" : 1
+      }
+      ,
+      {
+        "id": 10,
+        "title": "Samsung Watch Active 2",
+        "description": "Samsung Acive 2 (2022) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+        "price": 1000,
+        "thumbnail": "https://th.bing.com/th/id/R.3fd5a210d8415397571d192495e0a970?rik=zBlD8yzkpfIgLw&pid=ImgRaw&r=0",
+        "quantity" : 1
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ]
+  }
+  
